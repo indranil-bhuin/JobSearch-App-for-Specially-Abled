@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Office Assistant",
+    "description": "We are seeking an office assistant who is proficient in Microsoft Office, has excellent communication skills, and is comfortable working in a fast-paced environment. This position is suitable for individuals with physical disabilities.",
+    "qualifications": "High school diploma or equivalent. Proficiency in Microsoft Office. Excellent communication skills.",
+    "location": "New York, NY",
+    "salary": "30,000 - 40,000",
+    "contact": "hr@example.com"
+  },
+  {
+    "id": "2",
+    "title": "Web Developer",
+    "description": "We are looking for an experienced web developer with a passion for creating accessible websites. This position is suitable for individuals with physical disabilities.",
+    "qualifications": "Bachelor's degree in computer science or equivalent. Proficiency in HTML, CSS, JavaScript, and React. Familiarity with accessibility standards.",
+    "location": "San Francisco, CA",
+    "salary": "80,000 - 100,000",
+    "contact": "hr@example.com"
+  },
+  {
+    "id": "3",
+    "title": "Customer Service Representative",
+    "description": "We are seeking a customer service representative who is friendly, patient, and detail-oriented. This position is suitable for individuals with physical disabilities.",
+    "qualifications": "High school diploma or equivalent. Excellent communication skills. Ability to multitask and work in a fast-paced environment.",
+    "location": "Chicago, IL",
+    "salary": "25,000 - 30,000",
+    "contact": "hr@example.com"
+  },
+  {
+    "id": "4",
+    "title": "Data Entry Clerk",
+    "description": "We are looking for a detail-oriented data entry clerk to join our team. This position is suitable for individuals with physical disabilities.",
+    "qualifications": "High school diploma or equivalent. Proficiency in Microsoft Excel. Excellent attention to detail.",
+    "location": "Austin, TX",
+    "salary": "20,000 - 25,000",
+    "contact": "hr@example.com"
+  },
+  {
+    "id": "5",
+    "title": "Social Media Manager",
+    "description": "We are seeking a creative and strategic social media manager to join our team. This position is suitable for individuals with physical disabilities.",
+    "qualifications": "Bachelor's degree in marketing, communications, or equivalent. Experience managing social media accounts. Strong writing skills.",
+    "location": "Seattle, WA",
+    "salary": "50,000 - 60,000",
+    "contact": "hr@example.com"
+  },
+  {
+    "id": "6",
+    "title": "Graphic Designer",
+    "description": "We are looking for a talented graphic designer to create engaging visual content for our brand. This position is suitable for individuals with physical disabilities.",
+    "qualifications": "Bachelor's degree in graphic design or equivalent. Proficiency in Adobe Creative Suite. Strong portfolio showcasing design skills.",
+    "location": "Los Angeles, CA",
+    "salary": "60,000 - 70,000",
+    "contact": "hr@example.com"
+  }
+]
