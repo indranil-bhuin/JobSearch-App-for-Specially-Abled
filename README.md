@@ -19,6 +19,12 @@ Open a terminal in the project directory and run `npm install` to install the de
 Run `npx react-native start` to start the Metro server.
 Open another terminal and run `npx react-native run-android` to run the app on an Android device/emulator or `npx react-native run-ios` to run the app on an iOS device/simulator.
 
+## Screenshots
+![Screenshot from 2023-03-16 21-29-18_2](https://user-images.githubusercontent.com/126863610/225797582-d207c07a-63e0-4741-89a0-6451aa17ed0f.png)
+![Screenshot from 2023-03-16 21-03-53_2](https://user-images.githubusercontent.com/126863610/225797586-389782b0-99ab-452f-ace1-f04a913995f6.png)
+![Screenshot from 2023-03-06 09-09-48_2](https://user-images.githubusercontent.com/126863610/225797588-8c6a6643-623e-4118-aba6-9abb736ba6b3.png)
+![Screenshot from 2023-03-16 21-29-24_2](https://user-images.githubusercontent.com/126863610/225797589-ed75d034-a123-4aa6-8f48-d0e30717a183.png)
+
 ## How to Use the App
 On the home screen, the user can view the list of available jobs.
 Click on a job to view its details.
